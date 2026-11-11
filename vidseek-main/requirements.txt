@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+yt-dlp
+faster-whisper
+youtube-transcript-api
+sentence-transformers
+chromadb
+groq
+python-dotenv
+sqlalchemy
+psycopg2-binary
+pydantic-settings
+passlib[bcrypt]
+python-jose[cryptography]
+psycopg[binary]
+python-multipart
